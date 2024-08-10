@@ -1,2 +1,16 @@
 .venv
 .env
+OpenVoice/checkpoints
+OpenVoice/__pycache__/
+OpenVoice/.ipynb_checkpoints/
+OpenVoice/processed
+OpenVoice/outputs
+OpenVoice/trash
+OpenVoice/examples*
+OpenVoice/.env
+OpenVoice/build
+OpenVoice/*.egg-info/
+OpenVoice/*.zip
+OpenVoice/LICENSE
+OpenVoice/README.md
+OpenVoice/setup.py
